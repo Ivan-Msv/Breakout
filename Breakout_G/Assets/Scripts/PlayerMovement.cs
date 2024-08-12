@@ -5,7 +5,7 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
     private Rigidbody2D rb;
-    [SerializeField] private float speed = 10f;
+    [SerializeField] private float speed = 40f;
     [SerializeField] private float maxSpeed = 10f;
     // Start is called before the first frame update
     void Start()
@@ -17,8 +17,8 @@ public class PlayerMovement : MonoBehaviour
     void Update()
     {
         float horizontal = Input.GetAxisRaw("Horizontal") * speed * Time.deltaTime;
-        Mathf.Clamp(horizontal, -maxSpeed, maxSpeed);
+
+        rb.velocity = new Vector2(Mathf.Clamp(rb.velocity.x, -maxSpeed, maxSpeed), rb.velocity.y);
         rb.AddForce(new Vector2(horizontal, 0.0f), ForceMode2D.Impulse);
-        Debug.Log($"Current speed: {horizontal}");
     }
 }
