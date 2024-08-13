@@ -506,6 +506,7 @@ GameObject:
   - component: {fileID: 63217015}
   - component: {fileID: 63217016}
   - component: {fileID: 63217017}
+  - component: {fileID: 63217018}
   m_Layer: 0
   m_Name: Yellow wall (3)
   m_TagString: Untagged
@@ -606,6 +607,18 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.64, y: 0.32}
   m_EdgeRadius: 0
+--- !u!114 &63217018
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 63217014}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e691df9d2ae3164eb2e6f76e63f37bc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &70390266
 GameObject:
   m_ObjectHideFlags: 0
@@ -911,6 +924,7 @@ GameObject:
   - component: {fileID: 90120117}
   - component: {fileID: 90120118}
   - component: {fileID: 90120119}
+  - component: {fileID: 90120120}
   m_Layer: 0
   m_Name: Yellow wall (6)
   m_TagString: Untagged
@@ -1011,6 +1025,18 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.64, y: 0.32}
   m_EdgeRadius: 0
+--- !u!114 &90120120
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 90120116}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e691df9d2ae3164eb2e6f76e63f37bc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &91550018
 GameObject:
   m_ObjectHideFlags: 0
@@ -1146,6 +1172,7 @@ GameObject:
   - component: {fileID: 92262449}
   - component: {fileID: 92262450}
   - component: {fileID: 92262451}
+  - component: {fileID: 92262452}
   m_Layer: 0
   m_Name: Yellow wall (7)
   m_TagString: Untagged
@@ -1246,6 +1273,18 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.64, y: 0.32}
   m_EdgeRadius: 0
+--- !u!114 &92262452
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 92262448}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e691df9d2ae3164eb2e6f76e63f37bc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &110732208
 GameObject:
   m_ObjectHideFlags: 0
@@ -1427,6 +1466,7 @@ GameObject:
   - component: {fileID: 124579658}
   - component: {fileID: 124579659}
   - component: {fileID: 124579660}
+  - component: {fileID: 124579661}
   m_Layer: 0
   m_Name: Yellow wall (14)
   m_TagString: Untagged
@@ -1527,6 +1567,18 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.64, y: 0.32}
   m_EdgeRadius: 0
+--- !u!114 &124579661
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 124579657}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e691df9d2ae3164eb2e6f76e63f37bc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &159354203
 GameObject:
   m_ObjectHideFlags: 0
@@ -4319,6 +4371,7 @@ GameObject:
   - component: {fileID: 621126333}
   - component: {fileID: 621126334}
   - component: {fileID: 621126335}
+  - component: {fileID: 621126336}
   m_Layer: 0
   m_Name: Yellow wall (1)
   m_TagString: Untagged
@@ -4419,6 +4472,18 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.64, y: 0.32}
   m_EdgeRadius: 0
+--- !u!114 &621126336
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 621126332}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e691df9d2ae3164eb2e6f76e63f37bc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &631357683
 GameObject:
   m_ObjectHideFlags: 0
@@ -5746,6 +5811,7 @@ GameObject:
   - component: {fileID: 850195698}
   - component: {fileID: 850195699}
   - component: {fileID: 850195700}
+  - component: {fileID: 850195701}
   m_Layer: 0
   m_Name: Yellow wall (9)
   m_TagString: Untagged
@@ -5846,6 +5912,18 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.64, y: 0.32}
   m_EdgeRadius: 0
+--- !u!114 &850195701
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 850195697}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e691df9d2ae3164eb2e6f76e63f37bc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1013989154
 GameObject:
   m_ObjectHideFlags: 0
@@ -6932,6 +7010,7 @@ GameObject:
   - component: {fileID: 1342273683}
   - component: {fileID: 1342273684}
   - component: {fileID: 1342273685}
+  - component: {fileID: 1342273686}
   m_Layer: 0
   m_Name: Yellow wall (5)
   m_TagString: Untagged
@@ -7032,6 +7111,18 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.64, y: 0.32}
   m_EdgeRadius: 0
+--- !u!114 &1342273686
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1342273682}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e691df9d2ae3164eb2e6f76e63f37bc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1344817945
 GameObject:
   m_ObjectHideFlags: 0
@@ -7167,6 +7258,7 @@ GameObject:
   - component: {fileID: 1345069824}
   - component: {fileID: 1345069825}
   - component: {fileID: 1345069826}
+  - component: {fileID: 1345069827}
   m_Layer: 0
   m_Name: Yellow wall (15)
   m_TagString: Untagged
@@ -7267,6 +7359,18 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.64, y: 0.32}
   m_EdgeRadius: 0
+--- !u!114 &1345069827
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1345069823}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e691df9d2ae3164eb2e6f76e63f37bc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1354861285
 GameObject:
   m_ObjectHideFlags: 0
@@ -7389,6 +7493,7 @@ GameObject:
   - component: {fileID: 1390038853}
   - component: {fileID: 1390038854}
   - component: {fileID: 1390038855}
+  - component: {fileID: 1390038856}
   m_Layer: 0
   m_Name: Yellow wall (10)
   m_TagString: Untagged
@@ -7489,6 +7594,18 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.64, y: 0.32}
   m_EdgeRadius: 0
+--- !u!114 &1390038856
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1390038852}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e691df9d2ae3164eb2e6f76e63f37bc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1400902758
 GameObject:
   m_ObjectHideFlags: 0
@@ -8255,6 +8372,7 @@ GameObject:
   - component: {fileID: 1582274171}
   - component: {fileID: 1582274170}
   - component: {fileID: 1582274172}
+  - component: {fileID: 1582274173}
   m_Layer: 0
   m_Name: Yellow wall
   m_TagString: Untagged
@@ -8355,6 +8473,18 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.64, y: 0.32}
   m_EdgeRadius: 0
+--- !u!114 &1582274173
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1582274169}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e691df9d2ae3164eb2e6f76e63f37bc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1598603864
 GameObject:
   m_ObjectHideFlags: 0
@@ -8738,6 +8868,7 @@ GameObject:
   - component: {fileID: 1666807355}
   - component: {fileID: 1666807356}
   - component: {fileID: 1666807357}
+  - component: {fileID: 1666807358}
   m_Layer: 0
   m_Name: Yellow wall (8)
   m_TagString: Untagged
@@ -8838,6 +8969,18 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.64, y: 0.32}
   m_EdgeRadius: 0
+--- !u!114 &1666807358
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1666807354}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e691df9d2ae3164eb2e6f76e63f37bc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1672150678
 GameObject:
   m_ObjectHideFlags: 0
@@ -8973,6 +9116,7 @@ GameObject:
   - component: {fileID: 1674617372}
   - component: {fileID: 1674617373}
   - component: {fileID: 1674617374}
+  - component: {fileID: 1674617375}
   m_Layer: 0
   m_Name: Yellow wall (11)
   m_TagString: Untagged
@@ -9073,6 +9217,18 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.64, y: 0.32}
   m_EdgeRadius: 0
+--- !u!114 &1674617375
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1674617371}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e691df9d2ae3164eb2e6f76e63f37bc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1687447062
 GameObject:
   m_ObjectHideFlags: 0
@@ -11068,6 +11224,7 @@ GameObject:
   - component: {fileID: 2025925647}
   - component: {fileID: 2025925648}
   - component: {fileID: 2025925649}
+  - component: {fileID: 2025925650}
   m_Layer: 0
   m_Name: Yellow wall (4)
   m_TagString: Untagged
@@ -11168,6 +11325,18 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.64, y: 0.32}
   m_EdgeRadius: 0
+--- !u!114 &2025925650
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2025925646}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e691df9d2ae3164eb2e6f76e63f37bc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2042849554
 GameObject:
   m_ObjectHideFlags: 0
@@ -11353,6 +11522,7 @@ GameObject:
   - component: {fileID: 2074431551}
   - component: {fileID: 2074431552}
   - component: {fileID: 2074431553}
+  - component: {fileID: 2074431554}
   m_Layer: 0
   m_Name: Yellow wall (13)
   m_TagString: Untagged
@@ -11453,6 +11623,18 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.64, y: 0.32}
   m_EdgeRadius: 0
+--- !u!114 &2074431554
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2074431550}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e691df9d2ae3164eb2e6f76e63f37bc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2115731461
 GameObject:
   m_ObjectHideFlags: 0
@@ -11464,6 +11646,7 @@ GameObject:
   - component: {fileID: 2115731462}
   - component: {fileID: 2115731463}
   - component: {fileID: 2115731464}
+  - component: {fileID: 2115731465}
   m_Layer: 0
   m_Name: Yellow wall (2)
   m_TagString: Untagged
@@ -11564,6 +11747,18 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.64, y: 0.32}
   m_EdgeRadius: 0
+--- !u!114 &2115731465
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2115731461}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e691df9d2ae3164eb2e6f76e63f37bc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2119575186
 GameObject:
   m_ObjectHideFlags: 0
